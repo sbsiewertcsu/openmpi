@@ -1,0 +1,24 @@
+Master node: cpi02
+Hello from process 0 of 12 on cpi02
+Hello from process 1 of 12 on cpi02
+
+Hello from process 2 of 12 on cpi02
+
+Hello from process 3 of 12 on cpi02
+
+Hello from process 4 of 12 on cpi03
+
+Hello from process 5 of 12 on cpi03
+
+Hello from process 6 of 12 on cpi03
+
+Hello from process 7 of 12 on cpi03
+
+Hello from process 8 of 12 on cpi04
+
+Hello from process 9 of 12 on cpi04
+
+Hello from process 10 of 12 on cpi04
+
+Hello from process 11 of 12 on cpi04
+
